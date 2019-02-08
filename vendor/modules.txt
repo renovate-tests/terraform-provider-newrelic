@@ -89,7 +89,7 @@ github.com/hashicorp/terraform/moduledeps
 github.com/hashicorp/terraform/helper/acctest
 github.com/hashicorp/terraform/helper/resource
 github.com/hashicorp/terraform/helper/config
-# github.com/hashicorp/yamux v0.0.0-20160720233140-d1caa6c97c9f
+# github.com/hashicorp/yamux v0.0.0-20190208151508-2f1d1f20f75d
 github.com/hashicorp/yamux
 # github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7
 github.com/jmespath/go-jmespath

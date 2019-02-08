@@ -1,4 +1,4 @@
-# github.com/apparentlymart/go-cidr v0.0.0-20170418151526-7e4b007599d4
+# github.com/apparentlymart/go-cidr v1.0.0
 github.com/apparentlymart/go-cidr/cidr
 # github.com/aws/aws-sdk-go v1.8.34
 github.com/aws/aws-sdk-go/aws

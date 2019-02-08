@@ -35,7 +35,7 @@ github.com/davecgh/go-spew/spew
 # github.com/dollarshaveclub/new-relic-synthetics-go v0.0.0-20170605224734-4dc3dd6ae884
 github.com/dollarshaveclub/new-relic-synthetics-go
 github.com/dollarshaveclub/new-relic-synthetics-go/util
-# github.com/go-ini/ini v1.23.1
+# github.com/go-ini/ini v1.41.0
 github.com/go-ini/ini
 # github.com/hashicorp/errwrap v0.0.0-20141028054710-7554cd9344ce
 github.com/hashicorp/errwrap

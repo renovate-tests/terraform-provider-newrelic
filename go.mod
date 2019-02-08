@@ -27,7 +27,7 @@ require (
 	github.com/mitchellh/reflectwalk v0.0.0-20161003174516-92573fe8d000 // indirect
 	github.com/newrelic/go-agent v1.11.0
 	github.com/paultyng/go-newrelic/v4 v4.0.0
-	github.com/pkg/errors v0.0.0-20171018195549-f15c970de5b7 // indirect
+	github.com/pkg/errors v0.8.1 // indirect
 	github.com/satori/go.uuid v0.0.0-20160927100844-b061729afc07 // indirect
 	github.com/smartystreets/assertions v0.0.0-20180927180507-b2de0cb4f26d // indirect
 	github.com/smartystreets/goconvey v0.0.0-20180222194500-ef6db91d284a // indirect

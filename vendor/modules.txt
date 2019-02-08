@@ -111,7 +111,7 @@ github.com/newrelic/go-agent/internal/utilization
 github.com/newrelic/go-agent/internal/cat
 github.com/newrelic/go-agent/internal/jsonx
 github.com/newrelic/go-agent/internal/sysinfo
-# github.com/paultyng/go-newrelic/v4 v4.0.0
+# github.com/paultyng/go-newrelic/v4 v4.1.0
 github.com/paultyng/go-newrelic/v4/api
 # github.com/pkg/errors v0.0.0-20171018195549-f15c970de5b7
 github.com/pkg/errors

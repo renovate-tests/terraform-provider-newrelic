@@ -9,7 +9,7 @@ require (
 	github.com/go-ini/ini v1.23.1 // indirect
 	github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1 // indirect
 	github.com/hashicorp/errwrap v0.0.0-20141028054710-7554cd9344ce // indirect
-	github.com/hashicorp/go-cleanhttp v0.0.0-20170211013415-3573b8b52aa7 // indirect
+	github.com/hashicorp/go-cleanhttp v0.5.0 // indirect
 	github.com/hashicorp/go-getter v0.0.0-20170207215532-c3d66e76678d // indirect
 	github.com/hashicorp/go-multierror v0.0.0-20150916205742-d30f09973e19 // indirect
 	github.com/hashicorp/go-plugin v0.0.0-20170217162722-f72692aebca2 // indirect

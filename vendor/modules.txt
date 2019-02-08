@@ -39,7 +39,7 @@ github.com/dollarshaveclub/new-relic-synthetics-go/util
 github.com/go-ini/ini
 # github.com/hashicorp/errwrap v0.0.0-20141028054710-7554cd9344ce
 github.com/hashicorp/errwrap
-# github.com/hashicorp/go-cleanhttp v0.0.0-20170211013415-3573b8b52aa7
+# github.com/hashicorp/go-cleanhttp v0.5.0
 github.com/hashicorp/go-cleanhttp
 # github.com/hashicorp/go-getter v0.0.0-20170207215532-c3d66e76678d
 github.com/hashicorp/go-getter

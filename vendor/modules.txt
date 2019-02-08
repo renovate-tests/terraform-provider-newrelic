@@ -91,7 +91,7 @@ github.com/hashicorp/terraform/helper/resource
 github.com/hashicorp/terraform/helper/config
 # github.com/hashicorp/yamux v0.0.0-20160720233140-d1caa6c97c9f
 github.com/hashicorp/yamux
-# github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7
+# github.com/jmespath/go-jmespath v0.0.0-20190208151519-c2b33e8439af
 github.com/jmespath/go-jmespath
 # github.com/mitchellh/copystructure v0.0.0-20161013195342-5af94aef99f5
 github.com/mitchellh/copystructure

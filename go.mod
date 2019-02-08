@@ -30,7 +30,7 @@ require (
 	github.com/pkg/errors v0.0.0-20171018195549-f15c970de5b7 // indirect
 	github.com/satori/go.uuid v0.0.0-20160927100844-b061729afc07 // indirect
 	github.com/smartystreets/assertions v0.0.0-20180927180507-b2de0cb4f26d // indirect
-	github.com/smartystreets/goconvey v0.0.0-20180222194500-ef6db91d284a // indirect
+	github.com/smartystreets/goconvey v0.0.0-20190208151739-044398e4856c // indirect
 	golang.org/x/crypto v0.0.0-20170808112155-b176d7def5d7 // indirect
 	gopkg.in/jarcoal/httpmock.v1 v1.0.0-20181025172632-c463961d8bfe // indirect
 )

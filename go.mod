@@ -31,6 +31,6 @@ require (
 	github.com/satori/go.uuid v0.0.0-20160927100844-b061729afc07 // indirect
 	github.com/smartystreets/assertions v0.0.0-20180927180507-b2de0cb4f26d // indirect
 	github.com/smartystreets/goconvey v0.0.0-20180222194500-ef6db91d284a // indirect
-	golang.org/x/crypto v0.0.0-20170808112155-b176d7def5d7 // indirect
+	golang.org/x/crypto v0.0.0-20190208151746-b8fe1690c613 // indirect
 	gopkg.in/jarcoal/httpmock.v1 v1.0.0-20181025172632-c463961d8bfe // indirect
 )

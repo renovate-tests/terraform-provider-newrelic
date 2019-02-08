@@ -119,7 +119,7 @@ github.com/pkg/errors
 github.com/satori/go.uuid
 # github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80
 github.com/tomnomnom/linkheader
-# golang.org/x/crypto v0.0.0-20170808112155-b176d7def5d7
+# golang.org/x/crypto v0.0.0-20190208151746-b8fe1690c613
 golang.org/x/crypto/openpgp
 golang.org/x/crypto/bcrypt
 golang.org/x/crypto/ssh
@@ -130,9 +130,12 @@ golang.org/x/crypto/openpgp/s2k
 golang.org/x/crypto/blowfish
 golang.org/x/crypto/curve25519
 golang.org/x/crypto/ed25519
+golang.org/x/crypto/internal/chacha20
+golang.org/x/crypto/poly1305
 golang.org/x/crypto/cast5
 golang.org/x/crypto/openpgp/elgamal
 golang.org/x/crypto/ed25519/internal/edwards25519
+golang.org/x/crypto/internal/subtle
 # golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1
 golang.org/x/net/html
 golang.org/x/net/publicsuffix

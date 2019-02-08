@@ -19,7 +19,7 @@ require (
 	github.com/hashicorp/logutils v0.0.0-20150609070431-0dc08b1671f3 // indirect
 	github.com/hashicorp/terraform v0.10.0
 	github.com/hashicorp/yamux v0.0.0-20160720233140-d1caa6c97c9f // indirect
-	github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7 // indirect
+	github.com/jmespath/go-jmespath v0.0.0-20190208151519-c2b33e8439af // indirect
 	github.com/jtolds/gls v4.2.1+incompatible // indirect
 	github.com/mitchellh/copystructure v0.0.0-20161013195342-5af94aef99f5 // indirect
 	github.com/mitchellh/go-homedir v0.0.0-20161203194507-b8bc1bf76747 // indirect

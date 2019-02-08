@@ -15,7 +15,7 @@ require (
 	github.com/hashicorp/go-plugin v0.0.0-20170217162722-f72692aebca2 // indirect
 	github.com/hashicorp/go-uuid v0.0.0-20160120003506-36289988d83c // indirect
 	github.com/hashicorp/go-version v0.0.0-20161031182605-e96d38404026 // indirect
-	github.com/hashicorp/hil v0.0.0-20170512213305-fac2259da677 // indirect
+	github.com/hashicorp/hil v0.0.0-20190208151451-59d7c1fee952 // indirect
 	github.com/hashicorp/logutils v0.0.0-20150609070431-0dc08b1671f3 // indirect
 	github.com/hashicorp/terraform v0.10.0
 	github.com/hashicorp/yamux v0.0.0-20160720233140-d1caa6c97c9f // indirect

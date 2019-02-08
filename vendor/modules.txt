@@ -37,6 +37,12 @@ github.com/dollarshaveclub/new-relic-synthetics-go
 github.com/dollarshaveclub/new-relic-synthetics-go/util
 # github.com/go-ini/ini v1.23.1
 github.com/go-ini/ini
+# github.com/golang/protobuf v1.2.0
+github.com/golang/protobuf/proto
+github.com/golang/protobuf/ptypes
+github.com/golang/protobuf/ptypes/any
+github.com/golang/protobuf/ptypes/duration
+github.com/golang/protobuf/ptypes/timestamp
 # github.com/hashicorp/errwrap v0.0.0-20141028054710-7554cd9344ce
 github.com/hashicorp/errwrap
 # github.com/hashicorp/go-cleanhttp v0.0.0-20170211013415-3573b8b52aa7
@@ -44,10 +50,13 @@ github.com/hashicorp/go-cleanhttp
 # github.com/hashicorp/go-getter v0.0.0-20170207215532-c3d66e76678d
 github.com/hashicorp/go-getter
 github.com/hashicorp/go-getter/helper/url
+# github.com/hashicorp/go-hclog v0.0.0-20180709165350-ff2cf002a8dd
+github.com/hashicorp/go-hclog
 # github.com/hashicorp/go-multierror v0.0.0-20150916205742-d30f09973e19
 github.com/hashicorp/go-multierror
-# github.com/hashicorp/go-plugin v0.0.0-20170217162722-f72692aebca2
+# github.com/hashicorp/go-plugin v0.0.0-20190208151415-362c99b11937
 github.com/hashicorp/go-plugin
+github.com/hashicorp/go-plugin/internal/proto
 # github.com/hashicorp/go-uuid v0.0.0-20160120003506-36289988d83c
 github.com/hashicorp/go-uuid
 # github.com/hashicorp/go-version v0.0.0-20161031182605-e96d38404026
@@ -89,7 +98,7 @@ github.com/hashicorp/terraform/moduledeps
 github.com/hashicorp/terraform/helper/acctest
 github.com/hashicorp/terraform/helper/resource
 github.com/hashicorp/terraform/helper/config
-# github.com/hashicorp/yamux v0.0.0-20160720233140-d1caa6c97c9f
+# github.com/hashicorp/yamux v0.0.0-20180604194846-3520598351bb
 github.com/hashicorp/yamux
 # github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7
 github.com/jmespath/go-jmespath
@@ -97,6 +106,8 @@ github.com/jmespath/go-jmespath
 github.com/mitchellh/copystructure
 # github.com/mitchellh/go-homedir v0.0.0-20161203194507-b8bc1bf76747
 github.com/mitchellh/go-homedir
+# github.com/mitchellh/go-testing-interface v0.0.0-20171004221916-a61a99592b77
+github.com/mitchellh/go-testing-interface
 # github.com/mitchellh/hashstructure v0.0.0-20160209213820-6b17d669fac5
 github.com/mitchellh/hashstructure
 # github.com/mitchellh/mapstructure v1.1.2
@@ -111,6 +122,8 @@ github.com/newrelic/go-agent/internal/utilization
 github.com/newrelic/go-agent/internal/cat
 github.com/newrelic/go-agent/internal/jsonx
 github.com/newrelic/go-agent/internal/sysinfo
+# github.com/oklog/run v1.0.0
+github.com/oklog/run
 # github.com/paultyng/go-newrelic/v4 v4.0.0
 github.com/paultyng/go-newrelic/v4/api
 # github.com/pkg/errors v0.0.0-20171018195549-f15c970de5b7
@@ -134,8 +147,53 @@ golang.org/x/crypto/cast5
 golang.org/x/crypto/openpgp/elgamal
 golang.org/x/crypto/ed25519/internal/edwards25519
 # golang.org/x/net v0.0.0-20181011144130-49bb7cea24b1
+golang.org/x/net/context
 golang.org/x/net/html
 golang.org/x/net/publicsuffix
+golang.org/x/net/http2
+golang.org/x/net/trace
 golang.org/x/net/html/atom
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+golang.org/x/net/internal/timeseries
+# golang.org/x/sys v0.0.0-20190129075346-302c3dd5f1cc
+golang.org/x/sys/unix
+# golang.org/x/text v0.3.0
+golang.org/x/text/secure/bidirule
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+golang.org/x/text/transform
+# google.golang.org/genproto v0.0.0-20180817151627-c66870c02cf8
+google.golang.org/genproto/googleapis/rpc/status
+# google.golang.org/grpc v1.14.0
+google.golang.org/grpc
+google.golang.org/grpc/credentials
+google.golang.org/grpc/health
+google.golang.org/grpc/health/grpc_health_v1
+google.golang.org/grpc/balancer
+google.golang.org/grpc/balancer/roundrobin
+google.golang.org/grpc/codes
+google.golang.org/grpc/connectivity
+google.golang.org/grpc/encoding
+google.golang.org/grpc/encoding/proto
+google.golang.org/grpc/grpclog
+google.golang.org/grpc/internal
+google.golang.org/grpc/internal/backoff
+google.golang.org/grpc/internal/channelz
+google.golang.org/grpc/internal/envconfig
+google.golang.org/grpc/internal/grpcrand
+google.golang.org/grpc/internal/transport
+google.golang.org/grpc/keepalive
+google.golang.org/grpc/metadata
+google.golang.org/grpc/naming
+google.golang.org/grpc/peer
+google.golang.org/grpc/resolver
+google.golang.org/grpc/resolver/dns
+google.golang.org/grpc/resolver/passthrough
+google.golang.org/grpc/stats
+google.golang.org/grpc/status
+google.golang.org/grpc/tap
+google.golang.org/grpc/balancer/base
 # gopkg.in/resty.v1 v1.9.1
 gopkg.in/resty.v1

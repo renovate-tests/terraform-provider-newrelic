@@ -12,7 +12,7 @@ require (
 	github.com/hashicorp/go-cleanhttp v0.0.0-20170211013415-3573b8b52aa7 // indirect
 	github.com/hashicorp/go-getter v0.0.0-20170207215532-c3d66e76678d // indirect
 	github.com/hashicorp/go-multierror v0.0.0-20150916205742-d30f09973e19 // indirect
-	github.com/hashicorp/go-plugin v0.0.0-20170217162722-f72692aebca2 // indirect
+	github.com/hashicorp/go-plugin v0.0.0-20190208151415-362c99b11937 // indirect
 	github.com/hashicorp/go-uuid v0.0.0-20160120003506-36289988d83c // indirect
 	github.com/hashicorp/go-version v0.0.0-20161031182605-e96d38404026 // indirect
 	github.com/hashicorp/hil v0.0.0-20170512213305-fac2259da677 // indirect

@@ -75,10 +75,14 @@ github.com/paultyng/go-newrelic v3.1.0+incompatible h1:Rk4tqa9X79e8mII/Wb2LkhTRd
 github.com/paultyng/go-newrelic v3.1.0+incompatible/go.mod h1:6qjEGgk2sMkCb981StHKqGU65WZqOrLtxX6LZwRAyZo=
 github.com/paultyng/go-newrelic/v4 v4.0.0 h1:qcW5x8qZdyBgu/peLyKbSVlqIDAxBTdSWHMl+W3NDCc=
 github.com/paultyng/go-newrelic/v4 v4.0.0/go.mod h1:x5kXvMec6AoX4XYhWS50E96Qm7APfWWDNhvwyTZYij4=
+github.com/paultyng/go-newrelic/v4 v4.1.0 h1:G98LDiIAAWc5N/308eruX3rFOgqsIk2yiqgDNQsRvgg=
+github.com/paultyng/go-newrelic/v4 v4.1.0/go.mod h1:x5kXvMec6AoX4XYhWS50E96Qm7APfWWDNhvwyTZYij4=
 github.com/pelletier/go-toml v1.2.0 h1:T5zMGML61Wp+FlcbWjRDT7yAxhJNAiPPLOFECq181zc=
 github.com/pelletier/go-toml v1.2.0/go.mod h1:5z9KED0ma1S8pY6P1sdut58dfprrGBbd/94hg7ilaic=
 github.com/pkg/errors v0.0.0-20171018195549-f15c970de5b7 h1:rRublLXoszYPRZV8Ikd3RTmqVCW289H3FsgqRcfDZhY=
 github.com/pkg/errors v0.0.0-20171018195549-f15c970de5b7/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/satori/go.uuid v0.0.0-20160927100844-b061729afc07 h1:DEZDfcCVq3xDJrjqdCgyN/dHYVoqR92MCsdqCdxmnhM=
